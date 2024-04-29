@@ -1,6 +1,6 @@
 # 🦥 WHAT I KNOW AS A FLUTTER DEVELOPER
 
-<p align="left"><img src="https://cdn.dribbble.com/userupload/5544880/file/large-47a132996d0f3a36613352a24c6e86e6.mp4" ></p>
+<p align="left"><img src="https://cdn.dribbble.com/userupload/8694511/file/original-e00bd59bbe55e61f66f4370870333c12.png?resize=1905x899" ></p>
 
 CLEAN ARCHITECTURE
 
