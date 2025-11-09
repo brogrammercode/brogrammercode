@@ -1,41 +1,42 @@
-# 🦥 WHAT I KNOW AS A FLUTTER DEVELOPER
+# 🧠 WHAT I BRING AS A FULL-STACK & BACKEND ENGINEER
 
-<p align="left"><img src="https://cdn.dribbble.com/userupload/8694511/file/original-e00bd59bbe55e61f66f4370870333c12.png?resize=1905x899" ></p>
+<p align="left">
+<img src="https://cdn.dribbble.com/userupload/8694511/file/original-e00bd59bbe55e61f66f4370870333c12.png?resize=1905x899">
+</p>
 
-CLEAN ARCHITECTURE
+### BACKEND DEVELOPMENT  
+- RESTful APIs & microservices built for real-world scale  
+- Node.js, Express.js, Spring Boot, FastAPI  
+- Event-driven architecture using Kafka  
+- Authentication & security with JWT, bcrypt  
+- Monitoring & performance tracking using Prometheus + Grafana  
 
-- production folder 📂 structuring
-- smart error handling 🐌 in methods with dartz
-- single responsibility principle
-- less mofifiable widget
-- maintainable code writing
-- dependency injection 💉 with getIt
-- caching with Hive
+### DATABASES & CACHING  
+- PostgreSQL, MongoDB, Redis  
+- Query optimization for faster responses  
+- Distributed caching strategies for high-traffic systems  
 
-DATABASES
+### DEVOPS & CLOUD  
+- AWS deployments (ECS, EC2, S3, IAM)  
+- Production-grade CI/CD pipelines  
+- Docker for containerized everything  
+- Familiar with Kubernetes & Terraform  
+- GitHub Actions + Jenkins automation  
 
-- Remote database operation with Firebase 🔥 Application
-- Local Database operation with Hive
-- Know operations of 😴 Rest APIs
-- push notification with firebase messaging 💬
-- Familier with razorpay and googleMap APIs
+### FRONTEND & MOBILE EXPERIENCE  
+- React & Next.js for clean, modern UIs  
+- Flutter production experience  
+- Third-party API integrations (Razorpay, Google Maps, FCM)  
 
-STATE MANAGEMENT WITH BLoC
+### SOFTWARE ARCHITECTURE  
+- Clean Architecture implementations  
+- Dependency Injection & modular design  
+- Unit testing & quality-driven development  
+- Code that scales and stays readable  
 
-- clean cubit code </>
-- smart state utilization
-- familier with 💧 hydrated_bloc
+### VERSION CONTROL  
+- Confident with Git workflows and code reviews  
 
-GIT BEHAVIOUR
-
-- familer and proficient with almost all tools of version control
-
-UI BUILDING
-
-- expertise in all kind of widgets including third parties 🦝
-- milinieal designs with good color palleating
-- theme management ⛅
-
-PROJECTS
-
-- built but not yet uploaded ...
+### PROJECTS  
+- **PlanGen** – AI-based planning platform with full cloud infrastructure  
+- Additional backend-heavy project in development 🚀
