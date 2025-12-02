@@ -11,7 +11,6 @@
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=brogrammercode&show_icons=true&theme=dracula&hide_border=true&count_private=true&cache_seconds=86400" alt="brogrammercode's GitHub Stats" width="49%" />
   <img src="https://streak-stats.demolab.com/?user=brogrammercode&theme=dracula&hide_border=true&cache_seconds=86400" alt="brogrammercode's GitHub Streak" width="49%" />
 </p>
 <p align="center">
@@ -41,10 +40,6 @@
 
 > ## Tools
 <p align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" style="margin: 4px;" /></p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brogrammercode&layout=compact&theme=dracula&hide_border=true&langs_count=10&cache_seconds=86400" alt="Top Languages" />
-</p>
 
 ## 🔗 Connect with Me
 <p align="left"> <a href="https://www.linkedin.com/in/harsh3134" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" alt="Harsh Kumar's LinkedIn"/></a> <a href="https://www.x.com/brogrammerxd" target="_blank"><img align="center" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white&color=FF00FF" alt="Harsh Kumar's Twitter"/></a> <a href="mailto:harshsharma55115@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="Harsh Kumar's Email"/></a> <a href="https://www.harshcod.netlify.app" target="_blank"><img align="center" src="https://img.shields.io/badge/Website-46BC99?style=for-the-badge&logo=About.me&logoColor=white" alt="Personal Website"/></a></p>
