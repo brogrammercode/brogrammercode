@@ -1,7 +1,10 @@
-# 🧠 WHAT I BRING AS A FULL-STACK & BACKEND ENGINEER
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/cat-typing.gif" height="30px" width="30px"> I'm Harsh Kumar</h1>
+<h3 align="center">Backend Engineer</h3>
 
-<p align="left">
-<img src="https://cdn.dribbble.com/userupload/8694511/file/original-e00bd59bbe55e61f66f4370870333c12.png?resize=1905x899">
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=brogrammercode">
+    <img src="https://komarev.com/ghpvc/?username=brogrammercode&label=Profile%20views&color=00FFFF&style=flat-square" alt="brogrammercode's profile views" />
+  </a>
 </p>
 
 ### 🔧 BACKEND DEVELOPMENT  
