@@ -14,7 +14,7 @@
 ### 🗄 DATABASES & CACHING  
 - 🧠 PostgreSQL, MongoDB, Redis  
 - 🚀 Fast queries & optimized data access  
-- 🧱 Distributed caching for high-load systems  
+- 🧱 Distributed caching for high-load systems   
 
 ### ☁️ DEVOPS & CLOUD  
 - 🛠 AWS deployments (ECS, S3, IAM)  
